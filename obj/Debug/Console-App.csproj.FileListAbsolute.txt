@@ -1,0 +1,7 @@
+C:\GitHub\Console-App\bin\Debug\Console-App.exe.config
+C:\GitHub\Console-App\bin\Debug\Console-App.exe
+C:\GitHub\Console-App\bin\Debug\Console-App.pdb
+C:\GitHub\Console-App\obj\Debug\Console-App.csproj.AssemblyReference.cache
+C:\GitHub\Console-App\obj\Debug\Console-App.csproj.CoreCompileInputs.cache
+C:\GitHub\Console-App\obj\Debug\Console-App.exe
+C:\GitHub\Console-App\obj\Debug\Console-App.pdb
