@@ -1,4 +1,4 @@
-﻿namespace Console_App.Models;
+﻿namespace ConsoleApp.Models;
 
 public class OrderDetails
 {
@@ -9,4 +9,5 @@ public class OrderDetails
     public Order? Order {get; set;}
     public Product? Product {get; set;}
 
+    //public ICollection<OrderDetails> OrderDetails { get; set; } = new List<OrderDetails>();
 }

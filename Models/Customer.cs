@@ -1,4 +1,4 @@
-﻿namespace Console_App.Models;
+﻿namespace ConsoleApp.Models;
 
 using System;
 using System.Linq;

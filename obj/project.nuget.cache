@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "51zxWQ2Gi1A=",
+  "dgSpecHash": "HpD8Ljg+q4g=",
   "success": true,
-  "projectFilePath": "D:\\GitHub\\Console-App\\Console-App.csproj",
+  "projectFilePath": "D:\\GitHub\\ConsoleApp\\ConsoleApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Wojtek\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Wojtek\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

@@ -1,0 +1,6 @@
+D:\GitHub\Console-App\obj\Debug\net9.0\Console-App.csproj.AssemblyReference.cache
+D:\GitHub\Console-App\obj\Debug\net9.0\Console-App.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Console-App\obj\Debug\net9.0\Console-App.AssemblyInfoInputs.cache
+D:\GitHub\Console-App\obj\Debug\net9.0\Console-App.AssemblyInfo.cs
+D:\GitHub\Console-App\obj\Debug\net9.0\Console-App.csproj.CoreCompileInputs.cache
+D:\GitHub\Console-App\obj\Debug\net9.0\Console-App.sourcelink.json

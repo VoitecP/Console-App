@@ -5038,9 +5038,10 @@
   },
   "projectFileDependencyGroups": {
     "net9.0": [
-      "Microsoft.EntityFrameworkCore.Design >= 9.*",
+      "Microsoft.EntityFrameworkCore >= 9.0.12",
+      "Microsoft.EntityFrameworkCore.Design >= 9.0.12",
       "Microsoft.EntityFrameworkCore.SqlServer >= 9.*",
-      "Microsoft.EntityFrameworkCore.Sqlite >= 9.*",
+      "Microsoft.EntityFrameworkCore.Sqlite >= 9.0.12",
       "Microsoft.EntityFrameworkCore.Tools >= 9.*"
     ]
   },
@@ -5050,11 +5051,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\Console-App\\Console-App.csproj",
-      "projectName": "Console-App",
-      "projectPath": "D:\\GitHub\\Console-App\\Console-App.csproj",
+      "projectUniqueName": "D:\\GitHub\\ConsoleApp\\ConsoleApp.csproj",
+      "projectName": "ConsoleApp",
+      "projectPath": "D:\\GitHub\\ConsoleApp\\ConsoleApp.csproj",
       "packagesPath": "C:\\Users\\Wojtek\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\Console-App\\obj\\",
+      "outputPath": "D:\\GitHub\\ConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Wojtek\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -5087,11 +5088,15 @@
       "net9.0": {
         "targetAlias": "net9.0",
         "dependencies": {
+          "Microsoft.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "[9.0.12, )"
+          },
           "Microsoft.EntityFrameworkCore.Design": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",
             "target": "Package",
-            "version": "[9.*, )"
+            "version": "[9.0.12, )"
           },
           "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
@@ -5099,7 +5104,7 @@
           },
           "Microsoft.EntityFrameworkCore.Sqlite": {
             "target": "Package",
-            "version": "[9.*, )"
+            "version": "[9.0.12, )"
           },
           "Microsoft.EntityFrameworkCore.Tools": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
